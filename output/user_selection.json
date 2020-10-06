@@ -1,0 +1,52 @@
+{
+    "places_to_visit": [
+        "Spice of life",
+        "The Cambridge"
+    ],
+    "places_to_avoid": [
+        {
+            "location": "El Cantina",
+            "reasons": [
+                "There is nothing for Karol Drewno to drink",
+                "There is nothing for Rosie Curran to eat"
+            ]
+        },
+        {
+            "location": "Twin Dynasty",
+            "reasons": [
+                "There is nothing for Wen Li to eat"
+            ]
+        },
+        {
+            "location": "Wagamama",
+            "reasons": [
+                "There is nothing for Karol Drewno to drink"
+            ]
+        },
+        {
+            "location": "Sultan Sofrasi",
+            "reasons": [
+                "There is nothing for Karol Drewno to drink"
+            ]
+        },
+        {
+            "location": "Spirit House",
+            "reasons": [
+                "There is nothing for Tom Mullen to drink"
+            ]
+        },
+        {
+            "location": "Tally Joe",
+            "reasons": [
+                "There is nothing for Karol Drewno to drink"
+            ]
+        },
+        {
+            "location": "Fabrique",
+            "reasons": [
+                "There is nothing for Karol Drewno to drink",
+                "There is nothing for Wen Li to drink"
+            ]
+        }
+    ]
+}
